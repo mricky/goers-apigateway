@@ -1,0 +1,16 @@
+# logs
+
+*.log
+
+# doteenv 
+.env
+
+# Dependecy directories
+
+/node_modules
+
+# Optional
+.npm
+# devcontainer
+
+/.devcontainer
